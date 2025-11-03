@@ -5,6 +5,9 @@ Tired of sifting through countless job postings? This tool streamlines your job 
 
 This application analyzes the content of your uploaded resume and compares it against real-time job listings to provide a ranked list of jobs with a calculated match score.
 
+## 🚀 [Live Demo](https://skillsight.streamlit.app/)
+
+
 # How it Works
 The process is simple:
 
